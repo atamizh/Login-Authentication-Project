@@ -54,5 +54,5 @@ app.post("/api/login", (req, res) => {
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`NovaAuth backend running at http://localhost:${PORT}`);
+  console.log("https://login-authentication-gbz0.onrender.com");
 });
